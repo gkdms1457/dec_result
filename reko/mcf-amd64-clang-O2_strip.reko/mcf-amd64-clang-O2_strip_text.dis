@@ -1,0 +1,18 @@
+void fn0000000000400940(word64 rdx, word32 dwArg00, char * ptrArg08)
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// MayUse:  rdx:[0..63] Stack +0000:[0..31] Stack +0008:[0..63]
+// LiveOut:
+// Trashed:
+// Preserved:
+// Terminates process
+fn0000000000400940_exit:
+fn0000000000400940_entry:
+	ptr64 fp
+	word64 qwArg00
+l0000000000400940:
+	__align_stack<word64>(&ptrArg08)
+	__libc_start_main(0x400B10<64>, SLICE(qwArg00, int32, 0), &ptrArg08, 0x402DD0<64>, 0x402E40<64>, rdx, fp)
+	__halt()
+
+

@@ -1,0 +1,19 @@
+void _init()
+// stackDelta: 0; fpuStackDelta: 0; fpuMaxParam: -1
+
+// Called from:
+//      __libc_csu_init
+// MayUse: 
+// LiveOut:
+// Trashed: SCZO rax Top
+// Preserved: rsp
+_init_entry:
+l0000000000400810:
+	branch __gmon_start__ == 0<64> l0000000000400822
+l0000000000400820:
+	__gmon_start__()
+l0000000000400822:
+	return
+_init_exit:
+
+

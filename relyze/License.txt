@@ -1,0 +1,146 @@
+RELYZE - END USER LICENSE AGREEMENT
+===================================
+
+Effective as of January 1, 2023.
+
+IMPORTANT! CAREFULLY READ AND UNDERSTAND ALL OF THE RIGHTS AND RESTRICTIONS SET FORTH IN THIS END USER LICENSE AGREEMENT (EULA). YOU, THE LICENSEE AS DEFINED BELOW, ARE NOT AUTHORIZED TO DOWNLOAD, INSTALL OR USE THIS SOFTWARE UNLESS AND UNTIL YOU AGREE TO ACCEPT AND BE BOUND BY THE TERMS AND CONDITIONS OF THIS EULA.
+
+Definitions
+-----------
+
+	* The "Licensor" is 'Relyze Software Limited', having its principal place of business in the Republic of Ireland and registered with the Irish Companies Registration Office, Company number 555829.
+
+	* The "Licensee" is either an individual or a legal entity.
+
+	* The "Software" is the software program titled 'Relyze' and any associated media, printed materials, electronic documentation or third party software licensed by the Licensor and integrated with the software program titled 'Relyze'.
+
+1. Grant of License
+-------------------
+
+The Software is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The Software is licensed, not sold. The Licensor grants the Licensee use of the Software under the following terms:
+
+	* The Licensee's license rights under this EULA are non-exclusive. All rights not expressly granted herein are reserved by Licensor.
+
+	* The Licensee's license rights under this EULA are non-transferable. The Licensee may not sell, transfer or convey either the Software to any third party without the Licensor's prior express written consent.
+
+	* The Licensee may not use the Software to violate either existing license agreements or applicable local or international laws or treaties.
+
+2. Support Services
+-------------------
+
+Licensor may provide the Licensee with support services related to the Software ("Support Services"), in its discretion. Support Services, if any, will be conducted solely through electronic mail. Use of Support Services, if any, is governed by Licensor's policies and programs described in any user's manual, in online documentation, and/or other Licensor-provided materials. Any supplemental Software code provided to the Licensee as a part of Support Services will be considered part of the Software and subject to the terms of this EULA. With respect to technical information the Licensee provides to Licensor as part of the Support Services, Licensor may use such information for its business purposes, including for product support and development. Licensor will not utilize such technical information in a form that personally identifies the Licensee except to the extent necessary to provide the Licensee with support. Licensor withholds the right to refuse support to the Licensee if the Licensee does not comply with requests or procedures. This includes failure to submit correct information, fraudulent registration or behavior, and any other lack of cooperation.
+
+3. Replacement, Modification and/or Upgrades
+--------------------------------------------
+
+Licensor may, from time to time, replace, modify or upgrade the Software. When accepted by the Licensee, any such replacement or modified Software code or upgrade to the Software will be considered part of the Software and subject to the terms of this EULA, unless this EULA is superseded by a further EULA accompanying such replacement or modified version of or upgrade to the Software.
+
+4. Termination
+--------------
+
+The Licensee may terminate this EULA at any time by destroying all the Licensee's copies of the Software. The Licensee's license to the Software automatically terminates if the Licensee fails to comply with the terms of this agreement. Upon termination, the Licensee is required to remove the Software from the Licensee's computer and destroy any copies of the Software in the Licensees possession.
+
+5. Copyright
+------------
+
+	* All title and copyrights in and to the Software (including but not limited to any images, video, audio and text incorporated into the Software), the accompanying printed materials, and any copies of the Software, are owned by Licensor or its suppliers. This EULA grants the Licensee no rights to use such content. If this Software contains documentation that is provided only in electronic form, the Licensee may print one copy of such electronic documentation. Except for any copies of this EULA, the Licensee may not copy the printed materials accompanying the Software.
+
+	* The Licensee may not alter, duplicate, modify, rent, lease, loan, sub license, make copies of, create derivative works from, distribute or provide others with the Software in whole or part, transmit or communicate the application over a network.
+
+6. Third Party Software
+-----------------------
+
+	* The Licensee agrees to accept and be bound by the terms and conditions contained in the license agreements for the third party software integrated with the Software. A list of third party software can be found in Appendix A of this EULA.
+
+	* The Licensee agrees to accept and be bound by the terms and conditions contained in section 8 and 9 of this EULA with respect to the Licensee's use of the third party software.
+
+7. Export Restrictions
+----------------------
+
+The Licensee may not export, ship, transmit or re-export the Software in violation of any applicable law or regulations.
+
+8. Disclaimer of Warranties
+---------------------------
+
+THE LICENSOR AND ITS SUPPLIERS PROVIDE THE SOFTWARE "AS IS" AND WITH ALL FAULTS, AND HEREBY DISCLAIM ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING BUT NOT LIMITED TO ANY (IF ANY) IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE. ALSO, THERE IS NO WARRANTY OR CONDITION OF TITLE, OF QUIET ENJOYMENT, OR OF NONINFRINGEMENT. THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE SOFTWARE IS WITH THE LICENSEE.
+
+9. Limitation of Damages
+------------------------
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR OR ITS SUPPLIERS BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE OR OTHER DAMAGES WHATSOEVER ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE AND WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF LICENSOR OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS EXCLUSION OF DAMAGES WILL BE EFFECTIVE EVEN IF ANY REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
+
+10. Severability
+----------------
+
+If any term of this EULA is found to be unenforceable or contrary to law, it will be modified to the least extent necessary to make it enforceable, and the remaining portions of this Agreement will remain in full force and effect.
+
+11. No Waiver
+-------------
+
+No waiver of any right under this EULA will be deemed effective unless contained in writing signed by a duly authorized representative of the party against whom the waiver is to be asserted, and no waiver of any past or present right arising from any breach or failure to perform will be deemed to be a waiver of any future rights arising out of this EULA.
+
+12. Entire Agreement
+--------------------
+
+This EULA constitutes the entire agreement between the parties with respect to its subject matter, and supersedes all prior agreements, proposals, negotiations, representations or communications relating to the subject matter. Both parties acknowledge that they have not been induced to enter into this EULA by any representations or promises not specifically stated herein.
+
+Appendix A: Third Party Software Licenses
+=========================================
+
+	* Embarcadero "Visual Component Library" is licensed under a commercial license (http://www.embarcadero.com).
+
+	* TMS Software "TAdvMemo" is licensed under a commercial license (http://www.tmssoftware.com).
+
+	* Microsoft "Debugging Tools for Windows" is licensed under the Microsoft Software License Terms for Microsoft Debugging Tools for Windows (http://www.microsoft.com).
+
+	* "ShowGraph" is licensed under the New BSD License (https://code.google.com/p/showgraph/).
+
+	* "TChromeTabs" is licensed under the Mozilla Public License v1.1 (https://code.google.com/p/delphi-chrome-tabs/).
+
+	* Ethan Schoonover's "Solarized Theme" is licensed under the MIT License (https://github.com/altercation/solarized/blob/master/LICENSE).
+
+	* "Source Code Pro" is licensed under the SIL Open Font License v1.1 (https://github.com/adobe/source-code-pro/blob/master/LICENSE.txt).
+
+	* "Semantic Icon" is licensed under the MIT license (https://github.com/Semantic-Org/UI-Icon).
+
+	* "RubyInstaller" is licensed under the BSD License (https://github.com/oneclick/rubyinstaller2/blob/master/LICENSE.txt).
+
+	* "Ruby" is licensed under the BSD License (https://www.ruby-lang.org/en/about/license.txt).
+
+		+ The Ruby gem "ffi" is licensed under the BSD license (https://github.com/ffi/ffi/blob/master/LICENSE).
+
+		+ The Ruby gem "mime-types" is licensed under the MIT license (https://github.com/halostatue/mime-types/blob/master/Licence.rdoc).
+
+		+ The Ruby gem "minitest" is licensed under the MIT license (https://github.com/seattlerb/minitest).
+
+		+ The Ruby gem "netrc" is licensed under the MIT license (https://github.com/heroku/netrc/blob/master/LICENSE.md).
+
+		+ The Ruby gem "power_assert" is licensed under the BSD license (https://github.com/k-tsj/power_assert/blob/master/BSDL).
+
+		+ The Ruby gem "rest-client" is licensed under the MIT license (https://github.com/rest-client/rest-client/blob/master/LICENSE).
+
+		+ The Ruby gem "test-unit" is licensed under the Ruby license (https://github.com/test-unit/test-unit).
+
+		+ The Ruby gem "sqlite3" is licensed under the BSD license (https://github.com/sparklemotion/sqlite3-ruby).
+
+	* "Udis86" is licensed under the BSD License (https://github.com/vmt/udis86/blob/master/LICENSE).
+
+	* "Capstone" is licensed under the BSD License (https://github.com/aquynh/capstone/blob/master/LICENSE.TXT).
+
+	* "TCMalloc" is licensed under the BSD License (https://github.com/gperftools/gperftools/blob/master/COPYING).
+
+	* "CLang" is licensed under the University of Illinois/NCSA Open Source License (http://llvm.org/docs/DeveloperPolicy.html#license).
+
+	* "LLVM" is licensed under the University of Illinois/NCSA Open Source License (http://llvm.org/docs/DeveloperPolicy.html#license).
+
+	* "LibTCGTranslate" is licensed under the GNU Lesser General Public License (https://github.com/relyze-ltd/LibTCGTranslate/blob/master/COPYING.LIB).
+
+	* "Boost" is licensed under the Boost Software License (http://www.boost.org/users/license.html).
+
+	* "Zlib" is licensed under the zlib open source license (http://www.zlib.net/zlib_license.html)
+
+	* "OpenSSL" is licensed under the OpenSSL license (https://www.openssl.org/source/license.html)
+
+	* "SQLite" is in the public domain and does not require a license (https://sqlite.org/copyright.html).
+
+	* "Diff Match Patch" is licensed under the Apache License (https://github.com/google/diff-match-patch/blob/master/LICENSE).
